@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/AdobeDreamweaver-green?style=flat&logo=AdobeDreamweaver&logoColor=black"/>
 
 
-- 현재 관심있는 분야
+- 현재 관심있는 분야(공부중)
 
-  <img src="https://img.shields.io/badge/EclipseIDE-purple?style=flat&logo=EclipseIDE&logoColor=white"/>
+  <a href="https://github.com/belugacurtain/java-eclipse"><img src="https://img.shields.io/badge/EclipseIDE-purple?style=flat&logo=EclipseIDE&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=MySQL&logoColor=white"/>
+  <a href="https://github.com/belugacurtain/java-eclipse/blob/belugacurtain/GitBashLearn.md"><img src="https://img.shields.io/badge/Git-pink?style=flat&logo=Git&logoColor=red"/></a>
