@@ -36,7 +36,8 @@
 #
 ## 담당업무
 ### 호스팅 직전 UI/UX 설게서를 토대로 퍼블리싱 단계(Html5, Css3, Jquery)를 사용하여 반응형 페이지 제작)
-<a href="https://github.com/gunami4573/project" target="_blank"><img width=100% src="https://github-readme-stats.vercel.app/api?username=gunami4573&show_icons=false&count_private=true&hide_border=" align="center" /><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunami4573&layout=compact&theme=radical" align="center" /></a>
+
+<a href="https://github.com/gunami4573/project" target="_blank"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=gunami4573&show_icons=true&theme=dark#gh-dark-mode-only" align="center" /></a>
 
   
   
